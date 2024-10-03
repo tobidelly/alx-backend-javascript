@@ -233,46 +233,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `0-constants.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "0. Const or let?"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 0\. Const or let?
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done! Check your code Get a sandbox QA Review
 
 ### 1\. Block Scope
 
@@ -317,46 +278,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `1-block-scoped.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "1. Block Scope"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 1\. Block Scope
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 2\. Arrow functions
 
@@ -399,46 +321,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `2-arrow.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "2. Arrow functions"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 2\. Arrow functions
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 3\. Parameter defaults
 
@@ -486,46 +369,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `3-default-parameter.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "3. Parameter defaults"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 3\. Parameter defaults
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 4\. Rest parameter syntax for functions
 
@@ -570,46 +414,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `4-rest-parameter.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "4. Rest parameter syntax for functions"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 4\. Rest parameter syntax for functions
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 5\. The wonders of spread syntax
 
@@ -648,46 +453,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `5-spread-operator.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "5. The wonders of spread syntax"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 5\. The wonders of spread syntax
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 6\. Take advantage of template literals
 
@@ -732,46 +498,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `6-string-interpolation.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "6. Take advantage of template literals"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 6\. Take advantage of template literals
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 7\. Object property value shorthand syntax
 
@@ -815,46 +542,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `7-getBudgetObject.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "7. Object property value shorthand syntax"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 7\. Object property value shorthand syntax
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 8\. No need to create empty objects before adding in properties
 
@@ -901,46 +589,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `8-getBudgetCurrentYear.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "8. No need to create empty objects before adding in properties"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 8\. No need to create empty objects before adding in properties
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 9\. ES6 method properties
 
@@ -993,46 +642,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `9-getFullBudget.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "9. ES6 method properties"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 9\. ES6 method properties
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 10\. For...of Loops
 
@@ -1073,46 +683,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `10-loops.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "10. For...of Loops"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 10\. For...of Loops
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 11\. Iterator
 
@@ -1161,46 +732,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `11-createEmployeesObject.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "11. Iterator"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 11\. Iterator
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 12\. Let's create a report object
 
@@ -1262,46 +794,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `12-createReportObject.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "12. Let's create a report object"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 12\. Let's create a report object
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 13\. Iterating through report objects
 
@@ -1355,46 +848,7 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `100-createIteratorObject.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "13. Iterating through report objects"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 13\. Iterating through report objects
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
+Done? Check your code Get a sandbox QA Review
 
 ### 14\. Iterate through object
 
@@ -1475,95 +929,4 @@ bob@dylan:~$
 -   Directory: `0x00-ES6_basic`
 -   File: `101-iterateThroughObject.js`
 
-Done?! Check your code
-
-×
-
-#### Correction of "14. Iterate through object"
-
-Start a new test Close
-
-Requirement success
-
-Requirement fail
-
-Code success
-
-Code fail
-
-Efficiency success
-
-Efficiency fail
-
-Text answer success
-
-Text answer fail
-
-Skipped - Previous check failed
-
-Get a sandbox QA Review
-
-×
-
-#### 14\. Iterate through object
-
-##### Commit used:
-
--   **User:** \---
--   **URL:** Click here
--   **ID:** `---`
--   **Author:** \---
--   **Subject:** _\---_
--   **Date:** \---
-
-×
-
-#### Recommended Sandbox
-
-Running only
-
-### 1 image<small class="ml-2">(1/2 Sandboxes spawned)</small>
-
-### Ubuntu 18.04 - Node 12
-
-Ubuntu 18.04 with Node 12
-
-SSH
-
-SFTP
-
-[Webterm](https://intranet.alxswe.com/user_containers/703993/webterm)
-
-RestartDestroy
-
-#### Credentials
-
-**Host**<small>aa161e3897dc.b91b5bf6.alx-cod.online</small>
-
-**Username**<small>aa161e3897dc</small>
-
-**Password**<small>e249d37887fa8c88000b</small>
-
-#### Web access
-
-[HTTP](http://aa161e3897dc.b91b5bf6.alx-cod.online)[3000](http://aa161e3897dc.b91b5bf6.alx-cod.online:3000)[4000](http://aa161e3897dc.b91b5bf6.alx-cod.online:4000)[5000](http://aa161e3897dc.b91b5bf6.alx-cod.online:5000)[5001](http://aa161e3897dc.b91b5bf6.alx-cod.online:5001)[8000](http://aa161e3897dc.b91b5bf6.alx-cod.online:8000)[8080](http://aa161e3897dc.b91b5bf6.alx-cod.online:8080)
-
-#### Port mapping
-
-**SSH**54134
-
-**HTTP**54133
-
-**1245**54132
-
-**3000**54131
-
-**4000**54130
-
-**5000**54129
-
-**5001**54128
-
-**8000**54127
-
-**8080**54126
+Done? Check your code Get a sandbox QA Review
